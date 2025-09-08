@@ -1,3 +1,6 @@
+# Continuations and Adjustments Branch
+- I will be reviewing, refactoring, adjusting and improving my old code here to better suit the initial vision for the rework.
+
 # Passcrypt Safe Rework : Alternative
 - A rework of an old project called Passcrypt Safe to learn basic implementation of password management
 - Mainly for educational purposes (building a system, building a basic database, basic encryption / decryption function utilization) and not for actual password storage.
